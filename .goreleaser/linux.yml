@@ -1,3 +1,4 @@
+version: 2
 before:
   hooks:
     - go mod download
@@ -8,7 +9,7 @@ builds:
   flags:
     - -a
     - -tags
-    - netgo
+    - netgo,timetzdata
     - -installsuffix
     - netgo
   ldflags:
@@ -42,7 +43,6 @@ checksum:
 snapshot:
   name_template: "{{ .Version }}-next"
 changelog:
-  skip: true
   sort: asc
   filters:
     exclude:

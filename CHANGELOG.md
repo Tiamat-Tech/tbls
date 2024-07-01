@@ -1,5 +1,38 @@
 # Changelog
 
+## [v1.76.1](https://github.com/k1LoW/tbls/compare/v1.76.0...v1.76.1) - 2024-06-19
+### New Features 🎉
+- Postgres: Support "$user" search path by @mjpieters in https://github.com/k1LoW/tbls/pull/594
+### Other Changes
+- Address lint errors by @mjpieters in https://github.com/k1LoW/tbls/pull/595
+
+## [v1.76.0](https://github.com/k1LoW/tbls/compare/v1.75.0...v1.76.0) - 2024-06-04
+### Breaking Changes 🛠
+- Show table comments for related tables of View (#587) by @majimaccho in https://github.com/k1LoW/tbls/pull/590
+### Other Changes
+- chore(deps): bump the dependencies group with 10 updates by @dependabot in https://github.com/k1LoW/tbls/pull/588
+
+## [v1.75.0](https://github.com/k1LoW/tbls/compare/v1.74.4...v1.75.0) - 2024-05-16
+### Breaking Changes 🛠
+- Embed tzdata by @k1LoW in https://github.com/k1LoW/tbls/pull/585
+
+## [v1.74.4](https://github.com/k1LoW/tbls/compare/v1.74.3...v1.74.4) - 2024-05-16
+### Other Changes
+- Fix some minor typos by @fkmy in https://github.com/k1LoW/tbls/pull/583
+
+## [v1.74.3](https://github.com/k1LoW/tbls/compare/v1.74.2...v1.74.3) - 2024-05-06
+### Other Changes
+- Use `ghfs` for AnalyzeGithubContent by @kromiii in https://github.com/k1LoW/tbls/pull/581
+
+## [v1.74.2](https://github.com/k1LoW/tbls/compare/v1.74.1...v1.74.2) - 2024-05-02
+### Fix bug 🐛
+- Support the case where name in index_info is NULL. by @k1LoW in https://github.com/k1LoW/tbls/pull/579
+
+## [v1.74.1](https://github.com/k1LoW/tbls/compare/v1.74.0...v1.74.1) - 2024-05-01
+### Other Changes
+- chore(deps): bump golang.org/x/net from 0.22.0 to 0.23.0 by @dependabot in https://github.com/k1LoW/tbls/pull/575
+- chore(deps): bump the dependencies group with 7 updates by @dependabot in https://github.com/k1LoW/tbls/pull/577
+
 ## [v1.74.0](https://github.com/k1LoW/tbls/compare/v1.73.3...v1.74.0) - 2024-04-13
 ### Other Changes
 - chore(deps): bump the dependencies group with 5 updates by @dependabot in https://github.com/k1LoW/tbls/pull/568

@@ -248,7 +248,7 @@ WHERE name != 'sqlite_sequence' AND (type = 'table' OR type = 'view');`)
 			var (
 				colRank            string
 				colRankWithinTable string
-				col                string
+				col                sql.NullString
 				cols               []string
 			)
 			row, err := l.db.Query(fmt.Sprintf("PRAGMA index_info(`%s`)", indexName))
@@ -264,7 +264,9 @@ WHERE name != 'sqlite_sequence' AND (type = 'table' OR type = 'view');`)
 				if err != nil {
 					return errors.WithStack(err)
 				}
-				cols = append(cols, col)
+				if col.Valid {
+					cols = append(cols, col.String)
+				}
 			}
 
 			switch indexCreatedBy {
@@ -364,6 +366,9 @@ SELECT name, sql FROM sqlite_master WHERE type = 'trigger' AND tbl_name = ?;
 	// Relations
 	for _, r := range relations {
 		strColumns, strParentTable, strParentColumns, err := parseFK(r.Def)
+		if err != nil {
+			return err
+		}
 		for _, c := range strColumns {
 			column, err := r.Table.FindColumnByName(c)
 			if err != nil {
