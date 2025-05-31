@@ -1,5 +1,43 @@
 # Changelog
 
+## [v1.85.4](https://github.com/Tiamat-Tech/tbls/compare/v1.54.2...v1.85.4) - 2025-05-31
+### Other Changes
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/1
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/2
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/3
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/4
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/5
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/6
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/7
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/8
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/9
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/10
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/11
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/13
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/14
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/15
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/16
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/17
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/18
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/19
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/20
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/21
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/22
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/23
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/24
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/25
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/26
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/27
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/28
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/29
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/30
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/31
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/32
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/33
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/34
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/35
+- [pull] main from k1LoW:main by @pull in https://github.com/Tiamat-Tech/tbls/pull/36
+
 ## [v1.85.4](https://github.com/k1LoW/tbls/compare/v1.85.3...v1.85.4) - 2025-05-19
 ### Fix bug 🐛
 - Fix: apply showColumnTypes to ER diagram in Viewpoint pages (mermaid) by @k1LoW in https://github.com/k1LoW/tbls/pull/701
