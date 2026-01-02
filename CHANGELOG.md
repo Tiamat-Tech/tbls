@@ -1,5 +1,80 @@
 # Changelog
 
+## [v1.92.2](https://github.com/Tiamat-Tech/tbls/compare/v1.54.2...v1.92.2) - 2026-01-02
+### Other Changes
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/1
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/2
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/3
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/4
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/5
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/6
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/7
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/8
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/9
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/10
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/11
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/13
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/14
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/15
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/16
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/17
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/18
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/19
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/20
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/21
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/22
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/23
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/24
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/25
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/26
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/27
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/28
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/29
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/30
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/31
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/32
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/33
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/34
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/35
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/36
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/37
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/38
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/39
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/40
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/41
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/42
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/43
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/44
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/45
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/46
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/47
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/48
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/49
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/50
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/51
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/52
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/53
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/54
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/55
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/56
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/57
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/58
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/59
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/60
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/61
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/62
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/63
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/64
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/65
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/66
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/67
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/68
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/69
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/70
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/71
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/72
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/73
+
 ## [v1.92.2](https://github.com/k1LoW/tbls/compare/v1.92.1...v1.92.2) - 2025-12-22
 ### Fix bug 🐛
 - fix: merge viewpoints only by name, not by tables/labels combination by @k1LoW in https://github.com/k1LoW/tbls/pull/787
