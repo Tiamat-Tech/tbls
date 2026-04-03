@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.94.2](https://github.com/Tiamat-Tech/tbls/compare/v1.94.1...v1.94.2) - 2026-04-03
+### Other Changes
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/86
+
 ## [v1.94.1](https://github.com/k1LoW/tbls/compare/v1.94.0...v1.94.1) - 2026-03-31
 ### Other Changes
 - chore(deps): bump golang.org/x/image from 0.36.0 to 0.38.0 by @dependabot[bot] in https://github.com/k1LoW/tbls/pull/812
