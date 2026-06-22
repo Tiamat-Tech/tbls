@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.94.5](https://github.com/Tiamat-Tech/tbls/compare/v1.94.4...v1.94.5) - 2026-06-22
+
+### Other Changes
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/91
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/92
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/94
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/95
+
 ## [v1.94.5](https://github.com/k1LoW/tbls/compare/v1.94.4...v1.94.5) - 2026-04-27
 ### Fix bug 🐛
 - fix(mysql): stabilize constraint introspection order by @upamune in https://github.com/k1LoW/tbls/pull/830
