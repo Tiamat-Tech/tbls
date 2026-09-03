@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.95.1](https://github.com/Tiamat-Tech/tbls/compare/v1.95.0...v1.95.1) - 2026-09-03
+
+### Other Changes
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/98
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/100
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/101
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/102
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/103
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/104
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/105
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/106
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/107
+
 ## [v1.95.0](https://github.com/k1LoW/tbls/compare/v1.94.5...v1.95.0) - 2026-07-11
 
 ### New Features 🎉
