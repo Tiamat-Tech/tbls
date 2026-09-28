@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.96.1](https://github.com/Tiamat-Tech/tbls/compare/v1.96.0...v1.96.1) - 2026-09-28
+
+### Other Changes
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/109
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/111
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/Tiamat-Tech/tbls/pull/112
+
 ## [v1.96.0](https://github.com/k1LoW/tbls/compare/v1.95.0...v1.96.0) - 2026-09-03
 
 ### Breaking Changes 🛠
